@@ -10,6 +10,6 @@
 	</pre>
 	</form>
 	<hr>
-	<a href="index.jsp">Home</a>
+	<a href="buyerpage.jsp">Home</a>
 </body>
 </html>
